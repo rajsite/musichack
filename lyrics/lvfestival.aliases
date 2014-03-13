@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "172.22.11.9"
+My Computer = "127.0.0.1"
 
 [therio]
 therio = "172.22.11.2"
